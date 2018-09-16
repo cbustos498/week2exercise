@@ -49,10 +49,10 @@ div.nav ul li:hover a {
 div.nav img#logo,img#search,img#clip:hover {
 	text-shadow: 0 0 10px gray, 0 0 25px gray, 0 0 50px gray;
 }
-.nav {
+.nav, .nav img {
 	height: 50px;
 	background-color: black;
-	position: relative;
+	text-align:center;
 	
 
 }
