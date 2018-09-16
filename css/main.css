@@ -1,0 +1,384 @@
+body {
+   
+    margin: 0;
+    background-color: black;
+    font-family: 'Mukta Malar', sans-serif;
+
+}
+
+/*BEGINING OF NAVIGATION BAR SECTION -->*/
+
+.nav {
+	height: 50px;
+	background-color: black;
+	position: relative;
+	
+
+}
+
+.nav img {
+	height: 20px;
+}
+.nav ul li {
+	display: inline-block;
+	padding: 0 50px 0 0px;
+	float: top;
+	position: relative;
+	bottom:17px;
+	left:120px;
+	margin-right: 20px;
+}
+div.nav img#logo {
+	position: relative;
+	top: 5px;
+	left: 8px;
+
+}
+div.nav img#search {
+	position: relative;
+	top: 5px;
+}
+div.nav img#clip {
+	position: relative;
+	height: 30px;
+	top:10px;
+}
+.nav ul li a {
+	text-decoration: none;
+	color: #E2E2E2;
+	font-weight: 400;
+}
+div.nav ul li:hover a {
+	text-shadow: 0 0 10px gray, 0 0 25px gray, 0 0 50px gray;
+	font-size:15px;
+}
+div.nav img#logo,img#search,img#clip:hover {
+	text-shadow: 0 0 10px gray, 0 0 25px gray, 0 0 50px gray;
+}
+NAV BAR ENDS HERE
+
+
+
+
+
+
+
+
+
+BEGINING OF LAYI OUT SECTION -->
+
+div {
+    
+    
+    margin: 5px 0;
+}
+div.news {
+	height: 500px;
+	background-color: black;
+}
+div.iphoneX {
+	height: 1000px;
+}
+div.iphoneXr {
+	height: 1000px;
+}
+div.footer {
+	height: 491px;
+}
+div.watch {
+	height: 1000px;
+}
+
+
+
+
+/*START OF DIV OF NEWS*/
+
+
+
+
+
+div.news {
+	text-align: center;
+	color: #D5AD92;
+	font-family: 'Roboto Condensed', sans-serif;
+	position: relative;
+	bottom: 20px;
+}
+div.news h1 {
+	font-size:100px;
+	font-weight: 600;
+}
+div.news p {
+	font-size:30px;
+	font-weight: 600;
+	position: relative;
+	bottom: 50px;
+}
+div.news img#play {
+	z-index: 1;
+}
+
+div.news li {
+	list-style-type: none;
+}
+
+/*NEWS SECTION ENDS HERE*/
+
+
+
+
+
+
+/*START OF IPHONE X SECTION*/
+
+
+
+
+
+
+
+div.iphoneX {
+
+
+	background-color: black;
+	
+
+}
+div.iphoneX img#ipX {
+	width:1100px;
+	height: 700px;
+	position: relative;
+	bottom: 150px;
+	left: 100px;
+}
+div.iphoneX {
+	color:#E2E2E2;
+	font-family: 'Roboto Condensed', sans-serif;
+	position: relative;
+	bottom: 30px;
+
+}
+div.iphoneX h1 {
+	font-size:50px;
+	font-weight: 500;
+	position: relative;
+	bottom: 250px;
+	left: 550px;
+}
+div.iphoneX p {
+	font-size:28px;
+	font-weight: 600;
+	position: relative;
+	
+	bottom: 250px;
+	left: 350px;
+}
+.iphoneX p.order {
+	padding-left:200px;
+	text-decoration: none;
+	position: relative;
+}
+.iphoneX p a:hover {
+	text-decoration: underline;
+}
+.iphoneX a {
+	text-decoration: none;
+	color: #5CAAE8;
+}
+div.news li {
+   color:white;
+   position: relative;
+   font-size: 29px;
+   bottom: 50px;
+   text-decoration: none;
+   padding-left: 0;
+   text-decoration-style: none;
+   font-weight: 400;
+}
+/*END OF IPHONE XRSECTION*/
+
+div.iphoneXr {
+	background-image: url(..//img/xr.jpeg);
+	background-size:contain;
+	background-repeat: no-repeat;
+	height: 600px;
+	position: relative;
+	left:100px;
+	bottom: 100px;
+
+}
+div.iphoneXr  h1{
+	font-size: 60px;
+	font-weight:200;
+	color:white;
+	position:relative;
+	top:600px;
+	left:400px;
+}
+div.iphoneXr h2{
+	font-size: 75px;
+	font-weight: 550px;
+	color:white;
+	position: relative;
+	top:550px;
+	left: 160px;
+	padding-bottom:-100px;
+}
+div.iphoneXr img#r {
+	height: 30px;
+}
+div.iphoneXr p.pre_order {
+	font-size:28px;
+	font-weight: 150;
+	color: #C4C4C4;
+	position: relative;
+	top:500px;
+	left: 450px;
+}
+div.iphoneXr p.iphone_statement {
+      position: relative;
+      bottom: 25px;
+}
+
+div.iphoneXr p.learn_more{
+	font-size:2.1em;
+	font-weight:500;
+	color:#46BBFF;
+	 position: relative;
+	 top:500px;
+	 left:435px;
+	 text-decoration: none;
+
+}
+div.iphoneXr p a {
+	color:#46BBFF;
+	text-decoration: none;
+	font-size: 0.9em;
+	position: relative;
+	bottom: 41px;
+	left:10px;
+
+
+}
+div.iphoneXr {
+	margin-bottom:400px;
+
+	
+}
+
+/*END OF IPHONE XR SECTION*/
+
+
+
+/*BEGINING OF IPHONE WATCH SECTION*/
+
+div.watch {
+	position: relative;
+	margin-top: 1px;
+}
+div.watch img#apple_watch{
+	width: 900px;
+	height: 500px;
+	position: relative;
+	left: 193px;
+
+}
+div.watch img#apple_logo {
+	width: 41;
+	height: 50px;
+	position: relative;
+	top:117px;
+	right: 370px;
+}
+div.watch p {
+	color: #fff;
+}
+div.watch ul {
+	color: #fff;
+}
+div.watch p.top1 {
+	font-size: 50px;
+	position: relative;
+	left: 580px;
+	bottom: 7px;
+	font-weight: 400;
+}
+div.watch p.top2 {
+	font-size: 22px;
+	position: relative;
+	left: 600px;
+	bottom: 73px;
+}
+div.watch p.top3 {
+	font-size: 73px;
+	font-weight: 650;
+           
+}
+div.watch p.top31 {
+	position: relative;
+	left: 530px;
+	bottom: 130px;
+}
+div.watch p.top32{
+	position: relative;
+	left: 383px;
+	bottom: 237px;
+
+}
+span.one {
+	font-weight: 700;
+}
+div.watch p.three3 a{
+	text-decoration: none;
+	color: #66BBFF;
+	font-size: 27px;
+	font-weight: 500;
+	position: relative;
+	bottom: 300px;
+	left: 500px;
+}
+div.watch p.learn_more {
+	position: relative;
+	bottom: 20px;
+	left: 33px;
+}
+div.watch p.order {
+	position: relative;
+	bottom: 80px;
+	left: 220px;
+}
+div.watch p.three3:hover a{
+	text-decoration: underline;
+}
+
+
+
+/*THE END OF APPLE WATCH SECTION*/
+
+
+
+/*BEGINING OF FOOTER SECTION*/
+
+section.footer {
+	height: 600px;
+	width: 100%;
+	background-color: #222222;
+	padding-left: 100px;
+	padding right: 100px;	
+
+}
+section.footer p.authorized {
+	color: #555555;
+	position: relative;
+	font: 10px;
+
+
+}
+
+
+
+
+
+
+
