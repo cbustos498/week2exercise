@@ -11,13 +11,13 @@ body {
 .nav {
 	height: 50px;
 	background-color: black;
-	/*position: relative;*/
+	position: relative;
 	
 
 }
 
 .nav img {
-	height: 10px;
+	height: 20px;
 }
 .nav ul li {
 	display: inline-block;
@@ -374,13 +374,6 @@ section.footer p.authorized {
 	font: 10px;
 
 
-
-}
-.nav {
-	height: 50px;
-	background-color: black;
-	/*position: relative;*/
-	text-align: center;
 }
 
 
