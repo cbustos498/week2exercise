@@ -3,20 +3,15 @@ body {
     margin: 0;
     background-color: black;
     font-family: 'Mukta Malar', sans-serif;
-
-}
-
-/*BEGINING OF NAVIGATION BAR SECTION -->*/
-
-.nav {
+ }
+ /*BEGINING OF NAVIGATION BAR SECTION -->*/
+ .nav {
 	height: 50px;
 	background-color: black;
 	position: relative;
 	
-
-}
-
-.nav img {
+ }
+ .nav img {
 	height: 20px;
 }
 .nav ul li {
@@ -32,8 +27,7 @@ div.nav img#logo {
 	position: relative;
 	top: 5px;
 	left: 8px;
-
-}
+ }
 div.nav img#search {
 	position: relative;
 	top: 5px;
@@ -56,18 +50,8 @@ div.nav img#logo,img#search,img#clip:hover {
 	text-shadow: 0 0 10px gray, 0 0 25px gray, 0 0 50px gray;
 }
 NAV BAR ENDS HERE
-
-
-
-
-
-
-
-
-
-BEGINING OF LAYI OUT SECTION -->
-
-div {
+ BEGINING OF LAYI OUT SECTION -->
+ div {
     
     
     margin: 5px 0;
@@ -88,17 +72,8 @@ div.footer {
 div.watch {
 	height: 1000px;
 }
-
-
-
-
-/*START OF DIV OF NEWS*/
-
-
-
-
-
-div.news {
+ /*START OF DIV OF NEWS*/
+ div.news {
 	text-align: center;
 	color: #D5AD92;
 	font-family: 'Roboto Condensed', sans-serif;
@@ -118,33 +93,15 @@ div.news p {
 div.news img#play {
 	z-index: 1;
 }
-
-div.news li {
+ div.news li {
 	list-style-type: none;
 }
-
-/*NEWS SECTION ENDS HERE*/
-
-
-
-
-
-
-/*START OF IPHONE X SECTION*/
-
-
-
-
-
-
-
-div.iphoneX {
-
-
-	background-color: black;
+ /*NEWS SECTION ENDS HERE*/
+ /*START OF IPHONE X SECTION*/
+ div.iphoneX {
+ 	background-color: black;
 	
-
-}
+ }
 div.iphoneX img#ipX {
 	width:1100px;
 	height: 700px;
@@ -157,8 +114,7 @@ div.iphoneX {
 	font-family: 'Roboto Condensed', sans-serif;
 	position: relative;
 	bottom: 30px;
-
-}
+ }
 div.iphoneX h1 {
 	font-size:50px;
 	font-weight: 500;
@@ -197,8 +153,7 @@ div.news li {
    font-weight: 400;
 }
 /*END OF IPHONE XRSECTION*/
-
-div.iphoneXr {
+ div.iphoneXr {
 	background-image: url(..//img/xr.jpeg);
 	background-size:contain;
 	background-repeat: no-repeat;
@@ -206,8 +161,7 @@ div.iphoneXr {
 	position: relative;
 	left:100px;
 	bottom: 100px;
-
-}
+ }
 div.iphoneXr  h1{
 	font-size: 60px;
 	font-weight:200;
@@ -240,8 +194,7 @@ div.iphoneXr p.iphone_statement {
       position: relative;
       bottom: 25px;
 }
-
-div.iphoneXr p.learn_more{
+ div.iphoneXr p.learn_more{
 	font-size:2.1em;
 	font-weight:500;
 	color:#46BBFF;
@@ -249,8 +202,7 @@ div.iphoneXr p.learn_more{
 	 top:500px;
 	 left:435px;
 	 text-decoration: none;
-
-}
+ }
 div.iphoneXr p a {
 	color:#46BBFF;
 	text-decoration: none;
@@ -258,22 +210,14 @@ div.iphoneXr p a {
 	position: relative;
 	bottom: 41px;
 	left:10px;
-
-
-}
+ }
 div.iphoneXr {
 	margin-bottom:400px;
-
-	
+ 	
 }
-
-/*END OF IPHONE XR SECTION*/
-
-
-
-/*BEGINING OF IPHONE WATCH SECTION*/
-
-div.watch {
+ /*END OF IPHONE XR SECTION*/
+ /*BEGINING OF IPHONE WATCH SECTION*/
+ div.watch {
 	position: relative;
 	margin-top: 1px;
 }
@@ -282,8 +226,7 @@ div.watch img#apple_watch{
 	height: 500px;
 	position: relative;
 	left: 193px;
-
-}
+ }
 div.watch img#apple_logo {
 	width: 41;
 	height: 50px;
@@ -324,8 +267,7 @@ div.watch p.top32{
 	position: relative;
 	left: 383px;
 	bottom: 237px;
-
-}
+ }
 span.one {
 	font-weight: 700;
 }
@@ -351,34 +293,16 @@ div.watch p.order {
 div.watch p.three3:hover a{
 	text-decoration: underline;
 }
-
-
-
-/*THE END OF APPLE WATCH SECTION*/
-
-
-
-/*BEGINING OF FOOTER SECTION*/
-
-section.footer {
+ /*THE END OF APPLE WATCH SECTION*/
+ /*BEGINING OF FOOTER SECTION*/
+ section.footer {
 	height: 600px;
 	width: 100%;
 	background-color: #222222;
 	padding-left: 100px;
 	padding right: 100px;	
-
-}
+ }
 section.footer p.authorized {
 	color: #555555;
 	position: relative;
 	font: 10px;
-
-
-}
-
-
-
-
-
-
-
