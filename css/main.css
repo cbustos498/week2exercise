@@ -8,13 +8,7 @@ body {
 
 /*BEGINING OF NAVIGATION BAR SECTION -->*/
 
-.nav {
-	height: 50px;
-	background-color: black;
-	position: relative;
-	
 
-}
 
 .nav img {
 	height: 20px;
@@ -54,6 +48,13 @@ div.nav ul li:hover a {
 }
 div.nav img#logo,img#search,img#clip:hover {
 	text-shadow: 0 0 10px gray, 0 0 25px gray, 0 0 50px gray;
+}
+.nav {
+	height: 50px;
+	background-color: black;
+	position: relative;
+	
+
 }
 NAV BAR ENDS HERE
 
